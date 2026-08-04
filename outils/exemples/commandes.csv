@@ -1,0 +1,9 @@
+﻿commande;date;fournisseur;produit;quantite;prix;livraison
+CMD-001;05/11/2025;Fournisseur 1;Gaine de protection 14*120;400;0,73;293
+CMD-001;05/11/2025;Fournisseur 1;Tuteur en châtaignier;1600;0,64;
+CMD-002;05/12/2025;Fournisseur 2;Bambou;500;0,15;
+CMD-003;20/02/2026;Fournisseur 2;Bambou;1000;0,15;
+CMD-004;12/03/2026;Fournisseur 1;Gaine de protection 20*120;950;1,21;309
+CMD-004;12/03/2026;Fournisseur 1;Gaine de protection 14*120;850;0,71;
+CMD-004;12/03/2026;Fournisseur 1;Tuteur en Acacia;1000;0,69;
+CMD-005;18/03/2026;Fournisseur 3;Trico;50000;0,0178;

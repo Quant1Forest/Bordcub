@@ -1,0 +1,14 @@
+﻿facture;date;client;produit;quantite;prix;statut;debours
+FA-0001;;Client 1;Trico;16104;0,033333;Chantier fini;
+FA-0002;;Client 2;Tuteur en Acacia;512;1;En cours de réalisation;
+FA-0002;;Client 2;Gaine de protection 20*120;256;1,75;En cours de réalisation;
+FA-0003;11/11/2025;Client 3;Gaine de protection 14*120;50;0,874;Chantier fini;oui
+FA-0003;11/11/2025;Client 3;Tuteur en châtaignier;100;0,784;Chantier fini;oui
+FA-0004;11/11/2025;Client 4;Tuteur en châtaignier;50;0,784;Chantier fini;oui
+FA-0005;24/11/2025;Client 4;Tuteur en châtaignier;50;0,784;Chantier fini;oui
+FA-0006;27/11/2025;Client 5;Gaine de protection 14*120;48;0,85;Chantier fini;oui
+FA-0006;27/11/2025;Client 5;Tuteur en châtaignier;96;0,85;Chantier fini;oui
+FA-0007;20/12/2025;Client 6;Tuteur en châtaignier;536;1;Chantier fini;
+FA-0008;19/02/2026;Client 7;Tuteur en châtaignier;350;1;Chantier fini;
+FA-0008;19/02/2026;Client 7;Gaine de protection 14*120;350;1,05;Chantier fini;
+FA-0008;19/02/2026;Client 7;Bambou;550;0,25;Chantier fini;
